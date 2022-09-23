@@ -9,7 +9,7 @@ itsdangerous==0.24
 Jinja2==2.9.6
 MarkupSafe==1.0
 netifaces==0.10.6
-protobuf==3.4.0
+protobuf==3.18.3
 PyChromecast==0.8.2
 requests==2.18.4
 six==1.11.0
